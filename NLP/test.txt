@@ -1,1 +1,2 @@
-My New TextMy first line in a+ opening
+My Name is Dushyant. This is just a text file.
+This is to add a new line
